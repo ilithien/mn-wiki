@@ -1,0 +1,5 @@
+Aprovechando lo sucedido en la Capilla de Viena, el Culto de Shalim extendió el rumor que ciertas explosiones que sucedieron en el subsuelo de Madrid fueron causadas por el acecho de miembros de la Segunda Inquisición en busca de criptas de antiguos vampiros. 
+
+La realidad fue otra distinta, el propio Culto destruyo accesos desde partes del subsuelo moderno a las Catacumbas de Madrid dejando unas pocas entradas accesibles las cuales pudieran controlar con más facilidad. Compraron mortales, controlaron otros tantos y mataron otros cuantos para poder ejecutar los planes del Culto con comodidad y sin peligro. Ocuparon los antiguos refugios del Arzobispo y el Clan Lasombra, extendieron el miedo mediante rumores de que esa zona era peligrosa y agentes enemigos acechaban. 
+
+Persiguieron a aquellos curiosos y ejecutaron suficientes vástagos como para demostrar que ese realmente peligro existía. 

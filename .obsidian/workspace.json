@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "101d7abddf7eaadd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1a06537f3a1782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d81b8a80808d63d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vástagos/Camarilla/Lasombra/Isidro Salamanca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isidro Salamanca"
+            }
+          },
+          {
+            "id": "51bbec69fe68ab38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vástagos/Otros/Arzobispo Luis de Moncada.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arzobispo Luis de Moncada"
+            }
+          },
+          {
+            "id": "36958036f2ef6f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vástagos/Culto de Shalim/Josep Rosselló.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Josep Rosselló"
+            }
+          },
+          {
+            "id": "77c4325df5586834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Localizaciones/Real Monasterio de la Encarnación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Real Monasterio de la Encarnación"
+            }
+          },
+          {
+            "id": "82f4c5a90bb54880",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
+                "viewState": {
+                  "x": 387.70562015429766,
+                  "y": 1117.242723199869,
+                  "zoom": -0.35860529916698675
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa de Escenas"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54903aa0b297906f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97fd39160da604db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfe36c13d887f6a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0283735b7be8fd65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "a067c93b12a6f4aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9c60febd58e80fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8206dc77383d9c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38db403002f25ce2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Localizaciones/Catedral de la Almudena.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Catedral de la Almudena"
+            }
+          },
+          {
+            "id": "b05d64edd2cc638d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Localizaciones/Catedral de la Almudena.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Catedral de la Almudena"
+            }
+          },
+          {
+            "id": "776e932ab537792d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "07615efd1d42fc30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Localizaciones/Catedral de la Almudena.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Catedral de la Almudena"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "82f4c5a90bb54880",
+  "lastOpenFiles": [
+    "Aventuras/La Sombra de la Torre/Guía de Narración.md",
+    "Imágenes/Rebeka _La Rebe_ Godin.png",
+    "grok-video-9a3a2270-fe13-42b3-a4c5-12ad2ed7df08.mp4",
+    "Localizaciones/Real Monasterio de la Encarnación.md",
+    "Aventuras/La Sombra de la Torre",
+    "Localizaciones/Torre de Madrid.md",
+    "Localizaciones/Iglesia de San Nicolás de los Servitas.md",
+    "Localizaciones/Catacumbas de Madrid.md",
+    "Localizaciones/Catedral de la Almudena.md",
+    "Localizaciones/Círculo de Bellas Artes.md",
+    "Localizaciones/Estación de Atocha.md",
+    "Vástagos/Camarilla/Nosferatu/Rebecca 'La Rebe' Godín.md",
+    "Vástagos/Camarilla/Nosferatu/Patricio 'El Langui'.md",
+    "Vástagos/Culto de Shalim/Tharumagi.md",
+    "Vástagos/Camarilla/Lasombra/Isidro Salamanca.md",
+    "Vástagos/Camarilla/Lasombra/Mael.md",
+    "Vástagos/Camarilla/Nosferatu/Bernardo Casado.md",
+    "Vástagos/Camarilla/Lasombra/Padre Gabriel.md",
+    "Vástagos/Camarilla/Lasombra/Padre Abel García.md",
+    "Eventos/Ataque a las Catacumbas (2008).md",
+    "Eventos/Desterrado al Abismo (2020).md",
+    "Eventos/El Ascenso Anarquista (2011).md",
+    "Eventos/La Praxis de Eliécer (2012).md",
+    "Vástagos/Culto de Shalim/Josep Rosselló.md",
+    "Vástagos/Culto de Shalim/Hermano Simón Requena.md",
+    "Vástagos/Otros/Arzobispo Luis de Moncada.md",
+    "Vástagos/Otros/Tiresias.md",
+    "Vástagos/Otros/Lucita de Aragón.md",
+    "Humanos",
+    "Pasted image 20250929104701.png",
+    "Aventuras/La Sangre de San Pantaleón",
+    "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
+    "Imágenes/Celeste.png",
+    "Imágenes/Tharumagi.png",
+    "Imágenes/Enric Masip.png",
+    "Sin título.base",
+    "Aventuras/Cautiva en el Abismo",
+    "Sin título.canvas",
+    "Aventuras",
+    "Imágenes/Josep Rosselló.png",
+    "Imágenes/Azucena Jiménez.png",
+    "Imágenes/Giselda.png",
+    "Imágenes/Julia Redondo.png",
+    "Imágenes/Erika Maldonado.png",
+    "Imágenes",
+    "Vástagos/Sabbat",
+    "Vástagos/Otros"
+  ]
+}
