@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51bbec69fe68ab38",
+            "id": "c54babdba5d76887",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vástagos/Otros/Arzobispo Luis de Moncada.md",
+                "file": "Aventuras/La Sombra de la Torre/Notas de sesión.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arzobispo Luis de Moncada"
-            }
-          },
-          {
-            "id": "36958036f2ef6f0c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Notas de sesión"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,44 +169,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cfe36c13d887f6a5",
+  "active": "c54babdba5d76887",
   "lastOpenFiles": [
+    "Aventuras/La Sombra de la Torre/Subtramas/Mensaje desde la ciudad condal.md",
+    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
+    "Aventuras/La Sombra de la Torre/Guía de Narración.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Jaque a la reina.md",
+    "Aventuras/La Sombra de la Torre/Subtramas",
+    "Aventuras/La Sombra de la Torre/Los Hijos del Loco/Alzando.md",
+    "Aventuras/La Sombra de la Torre/Un mensaje desde arriba/Sin título.md",
+    "Aventuras/La Sombra de la Torre/Un mensaje desde arriba",
+    "Aventuras/La Sombra de la Torre/Venganza entre reyes",
+    "Aventuras/La Sombra de la Torre/Los Hijos del Loco",
+    "Aventuras/La Sombra de la Torre/La Hija de Francisco",
+    "Aventuras/La Sangre de San Pantaleón/Idea de partida.md",
+    "Humanos/Dr. Jerónimo Casas.md",
+    "Humanos/Padre Evaristo Montalbán.md",
+    "Vástagos/Otros/Tiresias.md",
+    "Aventuras/Cautiva en el Abismo/Guía de Narración.md",
+    "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
+    "Localizaciones/Subsuelo/Acceso I - Pasadizo de la Encarnación.md",
+    "Localizaciones/Subsuelo/Catacumbas de Madrid.md",
+    "Localizaciones/Religiosas/Catedral de la Almudena.md",
+    "Vástagos/Otros/Arzobispo Luis de Moncada.md",
+    "Localizaciones/Culturales/Círculo de Bellas Artes.md",
+    "Localizaciones/Torre de Madrid.md",
+    "Localizaciones/Plaza del Sol.md",
+    "Localizaciones/Culturales/Real Monasterio de la Encarnación.md",
+    "Localizaciones/Culturales",
+    "Localizaciones/Religiosas",
+    "Localizaciones/Subsuelo",
+    "Eventos/Desterrado al Abismo (2020).md",
+    "Eventos/Ataque a las Catacumbas (2008).md",
     "Vástagos/Camarilla/Ventrue/Soledad López-Becerra.md",
     "Vástagos/Camarilla/Ventrue/Juan Ramón Quesada.md",
     "Vástagos/Camarilla/Ventrue/Fernando de la Vega.md",
-    "Vástagos/Camarilla/Ventrue/Catalina de Acevedo.md",
-    "Vástagos/Camarilla/Tremere/Los Tremere.md",
-    "Vástagos/Camarilla/Tremere/Joan Enric Masip.md",
-    "Vástagos/Camarilla/Tremere/Celeste.md",
-    "Vástagos/Camarilla/Tremere/Athenea.md",
-    "Vástagos/Camarilla/Tremere/Amara.md",
-    "Vástagos/Camarilla/Toreador/Valeria Ferrán.md",
-    "Vástagos/Camarilla/Nosferatu/Rebecca 'La Rebe' Godín.md",
-    "Vástagos/Camarilla/Toreador/Ricardo Valenzuela.md",
-    "Vástagos/Camarilla/Toreador/Francisca de Perpinyà.md",
-    "Vástagos/Camarilla/Nosferatu/Patricio 'El Langui'.md",
-    "Vástagos/Camarilla/Nosferatu/Carlo Briatore.md",
-    "Vástagos/Camarilla/Nosferatu/Bernardo Casado.md",
-    "Vástagos/Camarilla/Malkavian/Bizmas.md",
-    "Vástagos/Camarilla/Lasombra/Padre Gabriel.md",
-    "Vástagos/Camarilla/Lasombra/Padre Abel García.md",
-    "Vástagos/Camarilla/Lasombra/Mael.md",
-    "Vástagos/Camarilla/Lasombra/Isidro Salamanca.md",
-    "Vástagos/Camarilla/Lasombra/Eliécer de Polanco.md",
-    "Vástagos/Camarilla/Banu Haqim/Yassir.md",
-    "Vástagos/Camarilla/Banu Haqim/Manuel Cayo.md",
-    "Vástagos/Camarilla/Banu Haqim/Jalim.md",
-    "Vástagos/Camarilla/Banu Haqim/Ahmed Abdel-Salam.md",
     "Vástagos/Camarilla/Ventrue",
     "Vástagos/Camarilla/Tremere",
-    "Vástagos/Camarilla/Toreador",
-    "Vástagos/Camarilla/Nosferatu",
-    "Vástagos/Camarilla/Malkavian",
-    "Vástagos/Camarilla/Lasombra",
-    "Vástagos/Camarilla/Banu Haqim",
-    "Vástagos/Culto de Shalim",
-    "Vástagos/Sabbat",
-    "Vástagos/Otros",
     "Imágenes/Tharumagi.png",
     "Imágenes/Rebeka _La Rebe_ Godin.png",
     "Imágenes/Julia Redondo.png",
@@ -228,7 +218,6 @@
     "Imágenes/Celeste.png",
     "Imágenes/Azucena Jiménez.png",
     "Imágenes/Carlos Guerrero.png",
-    "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
     "Sin título.canvas"
   ]
 }
