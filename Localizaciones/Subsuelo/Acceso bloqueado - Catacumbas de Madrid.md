@@ -1,0 +1,1 @@
+Andén I de atocha => Puerta mantenimiento => Verja robusta de acceso al canal de Isabel II => Desagües y mantenimiento del Manzanares => Pasarela al otro lado de Madrid => Túneles de Mantenimiento => Derrumbamiento

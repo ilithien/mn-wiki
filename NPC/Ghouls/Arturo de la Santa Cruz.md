@@ -1,0 +1,1 @@
+![[Arturo Santa Cruz.png|300]]

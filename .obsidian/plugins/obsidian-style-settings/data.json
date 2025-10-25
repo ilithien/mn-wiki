@@ -1,0 +1,22 @@
+{
+  "ITS@@slrvb-b": true,
+  "ITS@@slrvb-g": false,
+  "ITS@@drwn": true,
+  "ITS@@t-d": false,
+  "ITS@@select": "none",
+  "ITS@@accent-color": false,
+  "ITS@@its-d": false,
+  "ITS@@notion": false,
+  "ITS@@mini": false,
+  "ITS@@nord": false,
+  "ITS@@s-d": false,
+  "ITS@@default-font": "Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Microsoft YaHei Light', sans-serif",
+  "ITS@@font": "\"Kapital\"",
+  "ITS@@p-spacing": 1,
+  "ITS@@clear-headings": false,
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@file-line-width": 900,
+  "ITS@@heading-spacing": 20,
+  "ITS@@heading-indicator": false,
+  "ITS@@heading-spacing-bottom": 20
+}

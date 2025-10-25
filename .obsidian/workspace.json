@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00ced088840fe57a",
+        "id": "33e4f75060c8be3f",
         "type": "tabs",
         "children": [
           {
-            "id": "6896743ae900614b",
+            "id": "88093aa098a6f18d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Culto de Shalim"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Localizaciones/Catedral de la Almudena.md",
+                "file": "Aventuras/La Sombra de la Torre/Subtramas/Mensaje desde la ciudad condal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Catedral de la Almudena"
+              "title": "Backlinks for Mensaje desde la ciudad condal"
             }
           },
           {
@@ -138,82 +142,93 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Localizaciones/Catedral de la Almudena.md",
+                "file": "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Catedral de la Almudena"
+              "title": "Outline of Culto de Shalim"
+            }
+          },
+          {
+            "id": "29acca2fad58d211",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6896743ae900614b",
+  "active": "88093aa098a6f18d",
   "lastOpenFiles": [
-    "Localizaciones/Religiosas/Catedral de la Almudena.md",
-    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
-    "Vástagos/Camarilla/Ventrue/Soledad López-Becerra.md",
-    "Vástagos/Camarilla/Ventrue/Juan Ramón Quesada.md",
-    "Vástagos/Camarilla/Ventrue/Catalina de Acevedo.md",
-    "Vástagos/Camarilla/Ventrue/Fernando de la Vega.md",
-    "Vástagos/Camarilla/Tremere/Los Tremere.md",
-    "Vástagos/Camarilla/Tremere/Celeste.md",
-    "Vástagos/Camarilla/Tremere/Joan Enric Masip.md",
-    "Vástagos/Camarilla/Tremere/Athenea.md",
-    "Vástagos/Camarilla/Tremere/Amara.md",
-    "Vástagos/Camarilla/Toreador/Valeria Ferrán.md",
-    "Vástagos/Camarilla/Nosferatu/Rebecca 'La Rebe' Godín.md",
-    "Vástagos/Camarilla/Toreador/Ricardo Valenzuela.md",
-    "Vástagos/Camarilla/Toreador/Francisca de Perpinyà.md",
-    "Vástagos/Camarilla/Nosferatu/Patricio 'El Langui'.md",
-    "Vástagos/Camarilla/Nosferatu/Carlo Briatore.md",
-    "Vástagos/Camarilla/Nosferatu/Bernardo Casado.md",
-    "Vástagos/Camarilla/Malkavian/Bizmas.md",
-    "Vástagos/Camarilla/Lasombra/Padre Gabriel.md",
-    "Vástagos/Camarilla/Lasombra/Mael.md",
-    "Vástagos/Camarilla/Lasombra/Padre Abel García.md",
-    "Vástagos/Camarilla/Lasombra/Isidro Salamanca.md",
-    "Vástagos/Camarilla/Lasombra/Eliécer de Polanco.md",
-    "Vástagos/Camarilla/Banu Haqim/Yassir.md",
-    "Vástagos/Camarilla/Banu Haqim/Manuel Cayo.md",
-    "Vástagos/Camarilla/Ventrue",
-    "Vástagos/Camarilla/Tremere",
-    "Vástagos/Camarilla/Toreador",
-    "Vástagos/Camarilla/Nosferatu",
-    "Vástagos/Camarilla/Malkavian",
-    "Vástagos/Camarilla/Lasombra",
-    "Vástagos/Camarilla/Banu Haqim",
-    "Vástagos/Otros",
-    "Vástagos/Sabbat",
-    "Vástagos/Culto de Shalim",
-    "Imágenes/Tharumagi.png",
-    "Imágenes/Rebeka _La Rebe_ Godin.png",
-    "Imágenes/Julia Redondo.png",
-    "Imágenes/Josep Rosselló.png",
-    "Imágenes/Giselda.png",
-    "Imágenes/Erika Maldonado.png",
-    "Imágenes/Enric Masip.png",
-    "Imágenes/Celeste.png",
-    "Imágenes/Carlos Guerrero.png",
-    "Imágenes/Azucena Jiménez.png",
+    "Untitled.base",
+    "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
+    "NPC/Vampiros/Camarilla/Banu Haqim/Basima.md",
+    "NPC/Vampiros/Camarilla/Banu Haqim/Jalim.md",
+    "NPC/Vampiros/Camarilla/Toreador/Toreador.md",
+    "NPC/Vampiros/Camarilla/Nosferatu/Bernardo Casado.md",
+    "NPC/Vampiros/Camarilla/Nosferatu/Nosferatu.md",
+    "NPC/Vampiros/Camarilla/Toreador/Francisca de Perpinyà.md",
+    "NPC/Vampiros/Culto de Shalim/Tharumagi.md",
+    "NPC/Vampiros/Camarilla/Tremere/Tremere.md",
+    "NPC/Vampiros/Culto de Shalim/Josep Rosselló.md",
+    "NPC/Vampiros/Culto de Shalim/Hermano Simón Requena.md",
+    "NPC/Vampiros/Camarilla/Tremere/Athenea.md",
+    "NPC/Vampiros/Camarilla/Tremere/Amara.md",
+    "NPC/Vampiros/Camarilla/Tremere/Joan Enric Masip.md",
+    "NPC/Vampiros/Camarilla/Tremere/Celeste.md",
+    "Untitled",
+    "Localizaciones/Plaza del Sol.md",
+    "NPC/Humanos/Untitled.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Mensaje desde la ciudad condal.md",
+    "Localizaciones/Religiosas/Parroquia de San Ginés.md",
+    "Localizaciones/Subsuelo/Madrid soterrado.md",
+    "Localizaciones/Subsuelo/Acceso bloqueado - Catacumbas de Madrid.md",
+    "Localizaciones/Torre de Madrid.md",
+    "Localizaciones/Subsuelo/Acceso I - Pasadizo de la Encarnación.md",
+    "NPC/Humanos/Padre Pedro Añorbe.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
+    "Recursos/Imágenes/Personajes/Dr. Jerónimo Casas.png",
+    "Recursos/Imágenes/Personajes/Arturo Santa Cruz.png",
+    "NPC/Vampiros",
+    "NPC/Ghouls",
+    "Recursos",
     "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
+    "Recursos/Imágenes/Lugares/View - Torre de Madrid.png",
+    "Recursos/Imágenes/Lugares/Parroquia de San Ginés - Interior.png",
+    "Pasted image 20251025104322.png",
+    "Recursos/Imágenes/Lugares/Parroquia de San Ginés - Exterior.png",
+    "Recursos/Imágenes/Personajes/Tharumagi.png",
+    "Recursos/Imágenes/Personajes",
+    "Recursos/Imágenes/Lugares",
+    "Recursos/Imágenes/Personajes/Abel García.png",
+    "Recursos/Templates",
+    "Recursos/Imágenes/Personajes/Ramiro Tomás.png",
+    "NPC/Vampiros/Camarilla/Ventrue",
+    "NPC/Vampiros/Camarilla/Tremere",
+    "Recursos/Imágenes/Personajes/Rebeka _La Rebe_ Godin.png",
     "Sin título.canvas"
   ]
 }

@@ -12,5 +12,3 @@ Tiresias utiliza su sangre y su influencia para permanecer despierto bajo Madrid
 	* Se podría ver en la lista de mensajes alguien que está guardado como "A. F". Son horas y días para reunirse por la zona de la estación de Atocha
 	* Gran parte de la información se utiliza un cifrado un poco básico ahorrándose palabras, utilizando iniciales, etc. (**Inteligencia + Investigación (4)**) pero parece indicar que se reunían siempre en el *Andén I de Atocha* y desde ahí seguían una ruta marcada que está en los bocetos
 	* Hay información tomada de Bibliotecas que habrá de un antiguo pasadizo llamado el Pasadizo de la Encarnación pero parece algo antiguo que debería haber desaparecido según los datos oficiales. 
-### La ruta bajo Madrid
-Andén I de atocha => Puerta mantenimiento => Verja robusta de acceso al canal de Isabel II => Desagües y mantenimiento del Manzanares => Pasarela al otro lado de Madrid => Túneles de Mantenimiento => Derrumbamiento

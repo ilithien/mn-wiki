@@ -1,0 +1,1 @@
+Párroco de la [[Parroquia de San Ginés]] en Madrid

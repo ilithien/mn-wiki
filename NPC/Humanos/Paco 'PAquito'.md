@@ -1,0 +1,1 @@
+Francisco, o más conocido como «*Paquito*», es el humano que lleva la empresa de seguridad de la coterie de los Bajos de Argüelles. 

@@ -1,3 +1,5 @@
+# Sesión 8 | 26/10
+
 # Sesión 7 | 22/10
 
 **Enrique** recibe la llamada de Vittorio quien le indica que parece que la llegada desde Barcelona podría suceder la semana siguiente, según plantea Vittorio no se pueden permitir que el caos reine en la ciudad por lo que le pide que se asegure de obtener toda la información sobre la visita.
@@ -14,7 +16,5 @@ Visitando el Dominio parece que está de nuevo muy agitado, parece que el lugar 
 
 **Minerva** ha despertado a Tiresias y está intentando adaptarse a toda la información que le han presentado, sin embargo, Isabella parece haber empezado a tener sucesos de epilepsia causados por su esquizofrenia y la medicación y se han solicitado pruebas. 
 
-Por otro lado, **Minerva** ha conseguido llamar a uno de los chiquillos de Hugo, alguien que ya conoce; *Julia*, a través de la Red Malkavian. 
-
-
+Por otro lado, **Minerva** ha conseguido llamar a uno de los chiquillos de Hugo, alguien que ya conoce; *Julia*, a través de la Red Malkavian. Julia parece informarle que tiene algunos antiguos enseres de Hugo que contienen mapas que podrían ser de ayuda para saber más. 
 
