@@ -1,0 +1,1 @@
+Ghoul de Farid regente del *The Red Moon*
