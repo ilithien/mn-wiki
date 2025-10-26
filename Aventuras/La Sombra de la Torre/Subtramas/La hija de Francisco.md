@@ -1,5 +1,4 @@
 ## Inspector Carlos Gil
-
 Pidió una excedencia durante unos años, realizó algunos viajes hasta que hace unos pocos años volvió a su puesto de trabajo en su Comisaria Nacional. Parece tener mujer y varios hijos estudiando fuera de Madrid por Europa. Tiene una vida tranquila, hace sus turnos, va a casa, a veces va con su mujer a tomar algo durante el día o durante los festivos pero en general es una vida tranquila. Parece tener varias propiedades a su nombre y su patrimonio se ha ido incrementando desde su excedencia. 
 
 Durante su excedencia los pagos parecen provenir de una empresa pantalla relacionada con el Bufete de [[T&A Abogados]]. Fueron pagos claramente desmesurados por los servicios (« Una oferta irrechazable ») que el propio **Carlos** ha racionalizado por su vasta experiencia en la Policía Nacional y por ser un trabajo en el extranjero. 

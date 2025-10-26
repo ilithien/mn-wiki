@@ -1,0 +1,1 @@
+La llegada de un agente de los Lasombra en 2021, marca un antes y un después sobre la influencia de [[Lucita de Aragón]] sobre la corte de la **Camarilla de Madrid**. 

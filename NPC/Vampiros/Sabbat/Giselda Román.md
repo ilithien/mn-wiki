@@ -1,4 +1,4 @@
-![[Giselda.png|240]]
+![[Giselda.png|300]]
 **Nombre**: Giselda Román
 **Clan**: Tzimisce
 **Abrazo:** 

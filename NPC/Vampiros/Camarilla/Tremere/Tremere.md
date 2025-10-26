@@ -1,3 +1,6 @@
+---
+banner: https://images.ctfassets.net/u73tyf0fa8v1/4aAE17P5xne0AOImDEJe1S/09a28d17c8045061b69385570de06e69/world-of-darkness-vtm-tremere.jpg?w=1080&q=75
+---
 ## Orígenes
 La Camarilla y los Tremere en Madrid no llevan más de un par de décadas por lo que sus raíces e influencia en la sociedad son relativamente endebles. Sin embargo, su linaje aún es respetado entre los vástagos más antiguos quienes han visto al Clan ser una pieza históricamente clave para la Camarilla. 
 ## Organización

@@ -5,7 +5,7 @@
 **Abrazo:** 1810
 **Nacido**: 1770
 ## Trasfondo
-El pasado de Celeste es un misterio para cualquier vástago de Madrid, incluido su propio clan. Se estima que Celeste podría ser uno de los vampiros más antiguos entre el consejo de Primogénitos y de aquellos que hay en la ciudad. 
+El pasado de Celeste es un misterio para cualquier vástago de Madrid, incluido su propio clan. Se estima que Celeste podría ser uno de los vampiros más antiguos entre el consejo de [[Primogénitos]] y de aquellos que hay en la ciudad. 
 
 Tras la ruptura del vínculo de sangre que unía a los Tremere su preocupación ha sido la de preservar los conocimientos de su sangre y unir de forma natural a los suyos. Celeste es una líder, en general, respetada y admirada por la Capilla así como por el resto de vástagos de la sociedad. Su obsesión por mantener la cohesión de los suyos la hace una mentora fantástica y, a pesar de tener una ajetreada agenda, trata a los aprendices de una forma maternal y protectora. 
 

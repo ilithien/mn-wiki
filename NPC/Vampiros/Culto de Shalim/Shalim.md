@@ -1,0 +1,6 @@
+![[Shalim (Apolleon).png|300]]
+Las descripciones de Shalim varían, pero normalmente lo representan como un vacío negro que infunde una especie de iluminación basada en la ausencia total de significado o propósito, considerada algo deseable. Los miembros del culto tienden a creer que Shalim es un Lasombra de cuarta generación, aunque algunos sostienen que se trata de una entidad más primordial, una especie de dios del vacío.
+
+Sorprendentemente, muchos miembros del Culto de Shalim afirman haber conocido realmente a su dios, o al menos haber comunicado con él de alguna forma. Estos relatos suelen involucrar estados mentales extremos, como intentos de autoaniquilación que conducen a una súbita percepción del vacío y de una figura en su interior. Estas descripciones rara vez se corroboran, pero indican una relación más estrecha entre el dios y sus seguidores que la que se observa en la mayoría de los demás cultos de methuselah.
+
+Las frecuentes historias de miembros del culto que dicen haber encontrado a Shalim sugieren que se trata del mismo ser que **Apolleon** el Viajero, aunque el vínculo exacto entre ambos aún no se ha confirmado.

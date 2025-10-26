@@ -1,6 +1,6 @@
-![[Josep Rosselló.png|240]]
+![[Josep Rosselló.png|300]]
 **Nombre**: Josep Roselló
 **Clan**: Lasombra
-**Generación**: 11ª
+**Generación**: 12ª
 **Abrazo:** 1955
 
