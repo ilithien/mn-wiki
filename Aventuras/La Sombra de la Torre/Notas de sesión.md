@@ -1,4 +1,15 @@
 # Sesión 8 | 26/10
+**Enrique**, recibe la información de Pavel y Paquito: alguien parece haber hablado con la policía y ha visto a Pavel cargando algunas bolsas grandes la misma noche que sucedió la desaparición de los chicos del Fenrir. Enrique habla también con el Sheriff planteándole el asunto de la llegada de un vástago desde Barcelona y le pide ayuda para protegerlo hasta entregarlo al **Senescal**
+
+**Farid** habla con Sheriff sobre lo que se obtuvo del refugio del Sabbat cerca de Argüelles para obtener la información al respecto de las cartas encontradas ahí: Se encuentran dos cosas, una que habla sobre la desaparición del Príncipe y de una entidad llamada Shalim, la otra, la carta que encontró Fernando en el refugio de [[Josep Rosselló]] parece una petición para el Nosferatu de habilitar un paso bajo la Plaza Nelson Mandela en Lavapiés.
+
+**Francisco** le pide ayuda a Fernando para investigar las Bodegas Cabrera. 
+
+**Minerva** le pide ayuda a Francisco para solucionar el problema de Isabella. Visita a Julia donde ésta le muestra la caja que encontró en el apartamento de Hugo. También visita a Tiresias quien le da la clave sobre el reloj y, con la ayuda del Dr. Casas, recibe el nombre de sus hermanos de sangre, ahora debe reunirlos para saber que esconde ese artefacto. 
+
+**Fernando** ayuda a **Francisco** investigando un poco más el asunto de la Bodegas Cabrera.
+
+El Dominio sigue en continua efervescencia y según parece alguien está intentando llenar el lugar hasta el punto de hacerlo inestable. 
 
 # Sesión 7 | 22/10
 

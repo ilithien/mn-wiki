@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "62eaaf1c378b7657",
+        "id": "8df565d2aec1da84",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6b24d2aa3fcf51",
+            "id": "cf760f308626d713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
+                "file": "Aventuras/Cautiva en el Abismo/Guía de Narración.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El Dragón de dos cabezas"
-            }
-          },
-          {
-            "id": "23e2fee7e403f57c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Vampiros/Sabbat/Cinthia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cinthia"
-            }
-          },
-          {
-            "id": "0f33b76b93236c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Ghouls/Marina Bonilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marina Bonilla"
+              "title": "Guía de Narración"
             }
           }
         ]
@@ -209,11 +181,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae6b24d2aa3fcf51",
+  "active": "cf760f308626d713",
   "lastOpenFiles": [
+    "Aventuras/Cautiva en el Abismo/Guía de Narración.md",
+    "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
+    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Jaque a la reina.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Agitación en Argüelles.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
     "NPC/Ghouls/Marina Bonilla.md",
     "NPC/Vampiros/Sabbat/Cinthia.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
     "NPC/Vampiros/Sabbat/Giselda Román.md",
     "Madrid/Distritos y barriadas/Bajos de Argüelles.md",
     "Eventos/Ataque a las Catacumbas (2008).md",
@@ -222,14 +202,8 @@
     "Eventos/La semilla de las Sombras (2021).md",
     "Eventos/La Praxis de Eliécer (2012).md",
     "Eventos/La Muerte del Arzobispo (1999).md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Agitación en Argüelles.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Jaque a la reina.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
     "NPC/Ghouls/Rick McMuffin.md",
     "Madrid/Distritos y barriadas",
-    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
     "NPC/Ghouls/Arturo de la Santa Cruz.md",
     "NPC/Ghouls/Ramiro Tomas.md",
     "NPC/Ghouls/Pavel.md",
@@ -238,8 +212,6 @@
     "NPC/Vampiros/Camarilla/Lasombra/Mael.md",
     "Recursos/Imágenes/Personajes/Shalim (Apolleon).png",
     "Recursos/Imágenes/Personajes/Samael.png",
-    "NPC/Vampiros/Camarilla/Camarilla.md",
-    "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
     "Pasted image 20251026102952.png",
     "Recursos/Imágenes/Lugares/Círculo de Bellas Artes - Rooftop.png",
     "Recursos/Imágenes/Lugares/Circulo de Bellas Artes - Exterior.png",
@@ -253,7 +225,6 @@
     "NPC/Vampiros",
     "NPC/Ghouls",
     "Recursos",
-    "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
     "Recursos/Imágenes/Lugares/View - Torre de Madrid.png",
     "Recursos/Imágenes/Lugares/Parroquia de San Ginés - Interior.png",
     "Recursos/Imágenes/Personajes",

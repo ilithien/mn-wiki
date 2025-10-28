@@ -1,6 +1,22 @@
-
 **Jugadores**: 2-4
 **Tipo de partida** \[0-3] - Social \[3] Investigación \[1] Combate \[2]
+
+## Trasfondo
+La [[Celeste|Primogénita Tremere]] ha sido víctima de un terrible asalto de una criatura del Abismo que lleva meses acechando la ciudad de Madrid. Sólo aquellos con altas habilidades de Auspex o capacidades perceptivas sobrenaturales han sido capaz de sentir como su amenaza ha sido creciente durante los últimos meses. 
+
+[[Celeste]], utilizando poderes para proyectar su alma de forma astral, se vió atrapada por esta criatura y fue absorbida por el Abismo. Ahora, su alma permanece cautiva en este terrible lugar sin una idea clara de como salir de ahí. Su cuerpo ha quedado en un letargo del que no podrá despertar hasta que su alma sepa encontrar el camino de vuelta y ni siquiera los eruditos de su propio clan saben exactamente como despertarla. Gracias a sus poderes ha podido resistir hasta el momento, sin embargo, su mente no podrá hacerlo mucho más tiempo hasta que el Abismo la consuma por completo. 
+
+Sin embargo, antes de que esto sucediese [[Celeste]] ya temía que esto podría sucederle y contacto con los Hecata, a quien les pidió ayuda para verificar la situación de un importante vástago de la ciudad: El propio Príncipe Eliécer. Casi como un experimento novedoso, Enrique, sufrió las consecuencias de un ritual experimental sumado a su falta de capacidades esotéricas y fue atraído por el otro lado en vez de invocar al espíritu del Príncipe. 
+
+Durante este paseo, Enrique descubrió que algunos vástagos habían sido atrapados en este extraño lugar y, entre ellos, [[Celeste]] y el propio Eliécer. Tras un intenso viaje astral por las tierras de las sombras Enrique fue expulsado por el propio Shalim de su reino y su alma volvió a su cuerpo para despertar de un extraño letargo. Enrique vuelve con dos mensajes claros:
+
+- El Príncipe Eliécer le pide que la Primogénita Tremere podría saber como sacarle de ahí y que cualquiera de su propio clan podría ser parte de la guerra con Lucita y el Sabbat
+- [[Celeste]], por su lado, cree que su clan podría enseñarle el camino para hacerle volver ahora que sabe que este lugar existe.
+
+Enrique, tras despertar, contacta con el Sheriff para informarle de lo sucedido confiándo que es él el único agente neutral en todo esto. 
+
+[[Mapa de Escenas.canvas|Mapa de Escenas]]
+
 ## Resumen
 La historia sitúa a una coterie de la Camarilla como escolta de un ghoul de confianza de la Primogénita. Este ghoul planea rebuscar en el refugio la sangre de Celeste o algo que pueda ayudar a los Tremere a traerla de vuelta. Durante el momento de la escolta descubren que unos asaltantes han llegado antes y aún quedan unos pocos ghouls anarquistas rebuscando. 
 
@@ -29,18 +45,9 @@ La coterie, de alguna forma, conseguirá la sangre que robaron a la Primogénita
 **Si se dirigen al propio Sheriff**, éste podría reconocer una similar durante esas reuniones a las que él también ha acudido y sabría que su Primogénito tiene una similar. 
 
 Quitando [[Celeste]], Manuel Cayo, el Príncipe Eliécer y el Sheriff Ahmed, nadie conoce realmente la razón de esa reunión. 
-## Trasfondo
-La [[Celeste|Primogénita Tremere]] ha sido víctima de un terrible asalto de una criatura del Abismo que lleva meses acechando la ciudad de Madrid. Sólo aquellos con altas habilidades de Auspex o capacidades perceptivas sobrenaturales han sido capaz de sentir como su amenaza ha sido creciente durante los últimos meses. 
 
-[[Celeste]], utilizando poderes para proyectar su alma de forma astral, se vió atrapada por esta criatura y fue absorbida por el Abismo. Ahora, su alma permanece cautiva en este terrible lugar sin una idea clara de como salir de ahí. Su cuerpo ha quedado en un letargo del que no podrá despertar hasta que su alma sepa encontrar el camino de vuelta y ni siquiera los eruditos de su propio clan saben exactamente como despertarla. Gracias a sus poderes ha podido resistir hasta el momento, sin embargo, su mente no podrá hacerlo mucho más tiempo hasta que el Abismo la consuma por completo. 
+# Facciones anarquistas
 
-Sin embargo, antes de que esto sucediese [[Celeste]] ya temía que esto podría sucederle y contacto con los Hecata, a quien les pidió ayuda para verificar la situación de un importante vástago de la ciudad: El propio Príncipe Eliécer. Casi como un experimento novedoso, Enrique, sufrió las consecuencias de un ritual experimental sumado a su falta de capacidades esotéricas y fue atraído por el otro lado en vez de invocar al espíritu del Príncipe. 
-
-Durante este paseo, Enrique descubrió que algunos vástagos habían sido atrapados en este extraño lugar y, entre ellos, [[Celeste]] y el propio Eliécer. Tras un intenso viaje astral por las tierras de las sombras Enrique fue expulsado por el propio Shalim de su reino y su alma volvió a su cuerpo para despertar de un extraño letargo. Enrique vuelve con dos mensajes claros:
-
-- El Príncipe Eliécer le pide que la Primogénita Tremere podría saber como sacarle de ahí y que cualquiera de su propio clan podría ser parte de la guerra con Lucita y el Sabbat
-- [[Celeste]], por su lado, cree que su clan podría enseñarle el camino para hacerle volver ahora que sabe que este lugar existe.
-
-Enrique, tras despertar, contacta con el Sheriff para informarle de lo sucedido confiándo que es él el único agente neutral en todo esto. 
-## Mapa de escenas
-
+Actualmente en Madrid se está gestando una especie de división entre dos núcleos **Anarquistas**:
+* **Baronía de Chamberí**. Los Anarquistas más políticos y afines a convivir con la estructura de la Camarilla de forma aislada. Formado por vástagos más cercanos a la cultura bohemia, filosófica, feminista y menos revolucionaria. 
+* **Territorios Anarquistas del Sur de Madrid**. Tiene una estructura más libre y abierta aunque el Líder Anarquista está claramente reconocido alrededor de la figura de [[Carlos Guerrero]]. Cree que [[Azucena Jimenez|Azucena]] se está dejando pisotear por la Camarilla y que deben aprovechar la oportunidad de alzarse contra ciertos terrenos de la Camarilla. Está formado por vástagos más revolucionarios, conflictos y activistas.

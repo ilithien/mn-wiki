@@ -7,6 +7,6 @@ Tiresias utiliza su sangre y su influencia para permanecer despierto bajo Madrid
 # La caja de Hugo
 **Julia** habría recuperado en el pasado una caja de antiguas investigaciones de Hugo. En ella se podría ver:
 * Unos teléfonos antiguos que parecen estar descargados, parecen teléfonos desechables (ver el contenido **Resolución + Auspex (4)** o **Inteligencia + Tecnología (5)**:
-	* Se podría ver en la lista de mensajes alguien que está guardado como "A. F". Son horas y días para reunirse por la zona de la estación de Atocha
+	* Se podría ver en la lista de mensajes alguien que está guardado como "A. el Frances". Son horas y días para reunirse por la zona de la estación de Atocha. Parece que hay varios teléfonos con el mismo nombre. 
 	* Gran parte de la información se utiliza un cifrado un poco básico ahorrándose palabras, utilizando iniciales, etc. (**Inteligencia + Investigación (4)**) pero parece indicar que se reunían siempre en el *Andén I de Atocha* y desde ahí seguían una ruta marcada que está en los bocetos
 	* Hay información tomada de Bibliotecas que habrá de un antiguo pasadizo llamado el Pasadizo de la Encarnación pero parece algo antiguo que debería haber desaparecido según los datos oficiales. 
