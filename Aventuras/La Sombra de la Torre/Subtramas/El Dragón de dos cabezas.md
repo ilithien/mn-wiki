@@ -17,7 +17,6 @@ La Tzimisce, [[Cinthia]], ha empezado a operar desde hace unos meses en una clí
 Realmente la clínica no opera activamente con gente externa, es meramente una tapadera para aquellos realmente vinculados a negocios del culto. Ni siquiera es un edificio que tenga un cartel atractivo en la entrada aunque la recepción si parece de algún tipo de centro médico. 
 
 Algunas investigaciones sobre la clínica podría ver facturas relacionadas con el **Almacén de UKC** situado en el polígono de Usera, en el sur de Madrid. 
-
 ## Reclutamiento
 
 Las habilidades de Visicitud de [[Cinthia]] han empezado a funcionar entre algunos líderes del culto, cualquiera que pueda ver en detalle a algunos de los líderes de los centros de ayuda que utiliza el culto como cortina de humo podría verse que tiene una especie de extrañas mutaciones corporales que hacen su piel y su torso mucho más resistente a laceraciones y perforaciones (es una especie de capa cartilaginosa dura que absorbe y protege la piel). 
@@ -27,7 +26,10 @@ Tres hombres que salieron de la cárcel después de haber cumplido un tiempo por
 * **David** **Rodriguez**, 41 años, cumple 10 años por asesinato después de ir a 'cazar' a un hombre. Pertenencia a un grupo ultra.
 * **Ulises Tarrega**, 45 años, cumple un tiempo por secuestro, delito de lesiones y robo con violencia. 
 
-
 # El Sótano del Red Moon
 
+[[Marina Bonilla]] lleva un tiempo observando los movimientos de la coterie, especialmente de Farid. En un momento de confusión intentará asaltar y seducir a Farid con el fin de engañarlo para llevárselo con el fin de vengarse. 
 
+No es necesario que sea demasiado *push*, si la escena no tiene lugar tampoco se arriesgará aunque si consigue entregarle el Elixir que contiene [[Letargo Avanzado]]. Si consiguen que Farid caiga en la trampa, Marina intentará destruirlo. 
+
+Aunque [[Marina Bonilla|Marina]], sea un ghoul de [[Giselda Román]] realmente ella desea venganza de forma unilateral para entregar información sobre el nuevo dominio de Vástagos de los [[Bajos de Argüelles]]. 

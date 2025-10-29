@@ -26,11 +26,9 @@ Rebuscando entre su despacho encontrar una antigua vasija que contenía la sangr
 
 Sin embargo, no eran ellos los únicos que estaban vigilando los pasos de los Tremere: Una joven Nosferatu, Rebeca, ha estado vigilando el refugio y ha visto bien quienes son los asaltantes. Tanto Enric, con sus habilidades perceptivas la ha visto cerca de sus refugios alguna vez especialmente cuando utilizaban el Retiro como punto de reunión; como el Sheriff, quien podría saberlo simplemente por otras razones, podrían señalar a los Nosferatu como posible fuente de información. 
 
-Rebeca es una joven Nosferatu 
+[[Rebecca 'La Rebe' Godín|Rebeca]] les dará esa información a cambio de una [[#La petición de Rebeca|pequeña ayudita]]. La Nosferatu sabe que este joven Anarquista se mueve por ciertos ambientes situados en el sur de Madrid (Vallecas?) fuera del territorio de la Camarilla (concretamente territorio de Carlos Guerrero). Si la convencen de encargarse en otro momento, ella accederá confiando en la coterie. 
 
-Rebeca les dará esa información a cambio de que le revelen a ella que le entreguen la información por la cual esos anarcas han asaltado el refugio. La Nosferatu sabe que este joven Anarquista se mueve por ciertos ambientes situados en el sur de Madrid (Vallecas?) fuera del territorio de la Camarilla (concretamente territorio de Carlos Guerrero).
-
-<Conflicto: Encontrar al Anarquista en territorio anarquista>
+Después de la charla con [[Rebecca 'La Rebe' Godín]] el [[Ahmed Abdel-Salam|Sheriff]] asaltará a la coterie preguntándoles que hacían esa noche en el Refugio de la Primogénita y acusándoles de asaltarlo. La coterie podría contar más o menos de la razón por la cual están ayudando al Tremere o podría ocultar información, es decisión suya. Si colaboran con él finalmente podrían llegar a la conclusión final y ganarse un amplio favor del Sheriff y si le ayudan a sustraer del refugio del Primogénito la sangre. 
 
 La coterie podría tomar por la fuerza, convencer al joven anarquista o utilizar medios más políticos de intercambio de favores, amenazas o lo que sea para negociar con la otra facción. 
 
@@ -38,7 +36,7 @@ Posibles peticiones anarquistas:
 - **Zona de caza** (Parque tierno galván? La Capilla está situada en ese parque de forma subterránea pero los Tremere planean abrir otra cerca de la zona Universitaria y reclamar la zona)
 - **Permitir caza de los Anarquistas en la Zona Universitaria:**** Ambas facciones se están sintiendo atraídas por esa zona aún no establecida. Los Tremere desean montar una capilla cerca y los Anarquistas saben que mezclándose en esa escena pueden tener una buena cantidad de sangre.
 
-La coterie, de alguna forma, conseguirá la sangre que robaron a la Primogénita. Sin embargo, cualquiera que pueda extraer información sobre la sangre  dentro de la Capilla revelerá que no es realmente la sangre de la Primogénita si no la de otro vástago más débil. 
+La coterie, de alguna forma, conseguirá la sangre que robaron a la Primogénita. Sin embargo, cualquiera que pueda extraer información sobre la sangre dentro de la Capilla revelerá que no es realmente la sangre de la Primogénita si no la de otro vástago más débil. 
 
 **Si se la entregan a Enric**, Mauricio, ghoul de [[Celeste]], recordará haber visto una vasija similar durante varias reuniones recurrentes que se repiten cada año. Aunque no sabe los detalles sabe de los asistentes y de su periodicidad de esta reunión esto podría llevar a contactar con el propio Sheriff. 
 
@@ -51,3 +49,15 @@ Quitando [[Celeste]], Manuel Cayo, el Príncipe Eliécer y el Sheriff Ahmed, nad
 Actualmente en Madrid se está gestando una especie de división entre dos núcleos **Anarquistas**:
 * **Baronía de Chamberí**. Los Anarquistas más políticos y afines a convivir con la estructura de la Camarilla de forma aislada. Formado por vástagos más cercanos a la cultura bohemia, filosófica, feminista y menos revolucionaria. 
 * **Territorios Anarquistas del Sur de Madrid**. Tiene una estructura más libre y abierta aunque el Líder Anarquista está claramente reconocido alrededor de la figura de [[Carlos Guerrero]]. Cree que [[Azucena Jimenez|Azucena]] se está dejando pisotear por la Camarilla y que deben aprovechar la oportunidad de alzarse contra ciertos terrenos de la Camarilla. Está formado por vástagos más revolucionarios, conflictos y activistas.
+
+# La petición de Rebeca
+
+Rebecca tiene un fuerte rencor sobre la figura de su sire pero se siente demasiado intimidada por su figura y por su posición como para dar un paso en contra suyo directamente contra él. Se siente como una herramienta y un capricho de un momento particular en la que él se obsesionó con ella y ahora no es más que un peón mientras esté junto a él. 
+
+Además, recientemente [[Patricio 'El Langui']] se ha encaprichado de otra chica joven, Susana, una joven de cerca de unos 20 años de buen corazón que trabaja hasta tarde en una librería no muy alejada de la zona centro de la ciudad. El Langui tiene una particular forma de acercarse a chicas para evitar que lo vean y una vez ya es demasiado tarde las convierte en esclavos de su sangre (o cosas mucho peor). 
+
+Teme que le pueda pasar lo mismo a esa chica de lo que le pasó a ella y ahora quiere que alguien la convenza y la proteja hasta que el Langui se olvide de ella. 
+
+## El Abrazo de Rebecca
+
+El Abrazo de Rebecca fue un traumático evento para ella. [[Patricio 'El Langui'|Patricio]] se presentó como un hombre cualquiera de su entorno, un buen chico que se preocupaba pero la realidad fue otra distinta cuando pudo ver realmente su verdadera cara, ella se asustó, le rechazó y en un arrebato de furia, él le arrancó el pelo y la golpeó hasta matarla para finalmente abrazarla para esclavizarla en este mundo de por vida. 

@@ -1,0 +1,7 @@
+Esta fórmula induce el Letargo. Para los Sangre Débil, es un coma de último recurso.
+
+**Ingredientes**: Sangre del alquimista, sangre humana Colérica y Flemática, extracto de nimbo de la India,
+diazepam, difenhidramina, flor de manzanilla. 
+**Coste de activación**: 1 control de Enardecimiento.
+**Sistema**: El alquimista crea (o para otras destilaciones, sangra a su recipiente o a sí mismo) un fluido acuoso de un rosa vivo. Mezclar esta sustancia con sangre mortal crea un elixir que hace que quien lo beba caiga de inmediato en Letargo. Éste dura como si hubiera
+entrado en él por medios ordinarios. A diferencia del Letargo normal, un vampiro con Letargo Avanzado siempre puede repetir un control de Enardecimiento bajo sus efectos, ya sea para el día que pasa o para reparar cualquier daño. Si el vampiro termina su Letargo Avanzado con Ansia distinta a 5, puede mantener su nivel actual al despertar. Todos los vampiros en Letargo Avanzado sanan como un vampiro, incluso si un Defecto de Sangre Débil lo hace imposible en cualquier otro caso. Si el Ansia del vampiro aumenta por encima de 5 mientras está en Letargo Avanzado, el vampiro entra en un Letargo normal durante el resto del Letargo y comienza a aplicar las reglas normales.
