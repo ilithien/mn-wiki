@@ -1,0 +1,5 @@
+Es lo más indicativo a un Culto u organización religiosa. Tienen un pequeño local enmascarado tras doctrinas religiosas basadas en el cristianismo y el judaísmo. De aquí surgen voluntarios para ayudar a preservar lugares importantes del [[Culto de Shalim]] como el [[Real Monasterio de la Encarnación]] y la [[Catedral de la Almudena]].
+
+Es meramente un punto de reclutamiento coercitivo, no tiene especial vinculación con asuntos sobrenaturales como tal aunque son de ayuda para controlar los exteriores de estos lugares. Muchos son recompensados con milagrosos remedios de la Vitae vampírica y sirven como esperanza para aquello que encuentran una falsa Iluminación en convertirse en ghouls. 
+
+Aquellos que no lo consiguen se ven separados de su familia y arrancados de amor, esperanza o deseo de ningún tipo. 

@@ -4,44 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14b5d776c2536271",
+        "id": "737dc1f0bb594a1f",
         "type": "tabs",
         "children": [
           {
-            "id": "3bfbe86fb8860c99",
+            "id": "9d0f6890e840e4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "El Dragón de dos cabezas"
-            }
-          },
-          {
-            "id": "687a0fd7fd380c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Los hijos del loco"
-            }
-          },
-          {
-            "id": "c3a8748ea722471c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boceto escenas - Caps.md",
+                "file": "Aventuras/La Sombra de la Torre/Boceto escenas - Caps.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +21,7 @@
               "title": "Boceto escenas - Caps"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nicol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -210,22 +181,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "687a0fd7fd380c85",
+  "active": "9d0f6890e840e4a6",
   "lastOpenFiles": [
-    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
+    "Aventuras/La Sombra de la Torre/Boceto escenas - Caps.md",
     "Aventuras/La Sombra de la Torre/Notas de sesión.md",
-    "Boceto escenas - Caps.md",
+    "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
+    "Luz de San Nicolás.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
+    "Aventuras/La Sombra de la Torre/Entradas/Hogar de Lavapiés.md",
+    "Aventuras/La Sombra de la Torre/Entradas/La Mano Amiga.md",
+    "Madrid/Religiosas/Catedral de la Almudena.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
     "Madrid/Subsuelo/Acceso I - Pasadizo de la Encarnación.md",
     "Madrid/Subsuelo/Acceso bloqueado - Catacumbas de Madrid.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
     "Aventuras/La Sombra de la Torre/Entradas/Letargo Avanzado.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
     "Aventuras/Cautiva en el Abismo/Guía de Narración.md",
     "Aventuras/La Sombra de la Torre/Entradas",
     "Aventuras/Cautiva en el Abismo/Mapa de Escenas.canvas",
     "Aventuras/La Sombra de la Torre/Subtramas/Jaque a la reina.md",
     "Aventuras/La Sombra de la Torre/Subtramas/Agitación en Argüelles.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
     "NPC/Ghouls/Marina Bonilla.md",
     "NPC/Vampiros/Sabbat/Cinthia.md",
     "NPC/Vampiros/Sabbat/Giselda Román.md",
@@ -235,12 +211,7 @@
     "Eventos/El Ascenso Anarquista (2011).md",
     "Eventos/La semilla de las Sombras (2021).md",
     "Eventos/La Praxis de Eliécer (2012).md",
-    "Eventos/La Muerte del Arzobispo (1999).md",
-    "NPC/Ghouls/Rick McMuffin.md",
     "Madrid/Distritos y barriadas",
-    "NPC/Ghouls/Arturo de la Santa Cruz.md",
-    "NPC/Ghouls/Ramiro Tomas.md",
-    "NPC/Ghouls/Pavel.md",
     "Recursos/Imágenes/Personajes/Shalim (Apolleon).png",
     "Recursos/Imágenes/Personajes/Samael.png",
     "Pasted image 20251026102952.png",

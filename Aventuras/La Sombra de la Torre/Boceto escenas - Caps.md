@@ -3,6 +3,7 @@
 * **Farid** recibe la visita de los Anarquistas del Madbar, directamente en el Red Moon. Estos planean solucionar las cosas 'a las bravas'
 * **Fernando** asalta el lugar de las Bodegas Cabrera
 * **Minerva** reúne a sus hermanos y debe investigar sobre la vida de Sergio Castro
+* **Francisco** sigue pendiente del resultado de Fernando. Si investiga la empresa que pagó al Inspector Gil podría ver que es alguien relacionado con **Pedro de León**, uno de los propulsores de votar en contra de retirarlo de Presidente Ejecutivo antes de perder su poder en sus empresas.
 # Sesión 5/11
 * **Minerva** encuentra los restos de la hija de Castro y consigue abrir el reloj. En el una llave que parece abrir la puerta de un antiguo relicario en el Pasadizo de la Encarnación. 
 * **Fernando** visita la Mano Amiga y su almacen a las afueras de la ciudad. No hay nada relevante más que un negocio aparentemente legal, sin embargo en la parte de deshechos trasera podria encontrar una furgoneta con algunos cuerpos exsangües y pálidos  con corte sen las muñecas como si hubieran dejado correr una sangre hasta que se han muerto. 
@@ -11,6 +12,7 @@
 * **Enrique** debería hacer los preparativos para la llegada de uno de los miembros de los Hecata dentro de unos 10 días: refugio, zona de caza disponible, informar al elíseo de la llegada, etc. 
 # Sesión 9/11 (Evento Barcelona)
 * **Minerva** encuentra los restos de la Iglesia de Caín ó dentro del relicario del Pasadizo de la Encarnación siguiendo las pistas simbología relacionada con los hombres que fueron tras Hugo. 
+* **Enrique** y **Farid** escoltarán a Romi. 
 # Sesión 12/11
 # Sesión 16/11
 # Sesión 19/11

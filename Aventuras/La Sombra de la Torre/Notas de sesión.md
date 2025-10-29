@@ -1,3 +1,6 @@
+# Sesión 9 | 29/10
+
+
 # Sesión 8 | 26/10
 **Enrique**, recibe la información de Pavel y Paquito: alguien parece haber hablado con la policía y ha visto a Pavel cargando algunas bolsas grandes la misma noche que sucedió la desaparición de los chicos del Fenrir. Enrique habla también con el Sheriff planteándole el asunto de la llegada de un vástago desde Barcelona y le pide ayuda para protegerlo hasta entregarlo al **Senescal**
 
