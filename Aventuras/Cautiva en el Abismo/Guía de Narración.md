@@ -1,5 +1,5 @@
 **Jugadores**: 2-4
-**Tipo de partida** \[0-3] - Social \[3] Investigación \[1] Combate \[2]
+**Tipo de partida** \[0-3] - Social \[3] Investigación \[1] Conflicto \[2]
 
 ## Trasfondo
 La [[Celeste|Primogénita Tremere]] ha sido víctima de un terrible asalto de una criatura del Abismo que lleva meses acechando la ciudad de Madrid. Sólo aquellos con altas habilidades de Auspex o capacidades perceptivas sobrenaturales han sido capaz de sentir como su amenaza ha sido creciente durante los últimos meses. 
@@ -50,14 +50,3 @@ Actualmente en Madrid se está gestando una especie de división entre dos núcl
 * **Baronía de Chamberí**. Los Anarquistas más políticos y afines a convivir con la estructura de la Camarilla de forma aislada. Formado por vástagos más cercanos a la cultura bohemia, filosófica, feminista y menos revolucionaria. 
 * **Territorios Anarquistas del Sur de Madrid**. Tiene una estructura más libre y abierta aunque el Líder Anarquista está claramente reconocido alrededor de la figura de [[Carlos Guerrero]]. Cree que [[Azucena Jimenez|Azucena]] se está dejando pisotear por la Camarilla y que deben aprovechar la oportunidad de alzarse contra ciertos terrenos de la Camarilla. Está formado por vástagos más revolucionarios, conflictos y activistas.
 
-# La petición de Rebeca
-
-Rebecca tiene un fuerte rencor sobre la figura de su sire pero se siente demasiado intimidada por su figura y por su posición como para dar un paso en contra suyo directamente contra él. Se siente como una herramienta y un capricho de un momento particular en la que él se obsesionó con ella y ahora no es más que un peón mientras esté junto a él. 
-
-Además, recientemente [[Patricio 'El Langui']] se ha encaprichado de otra chica joven, Susana, una joven de cerca de unos 20 años de buen corazón que trabaja hasta tarde en una librería no muy alejada de la zona centro de la ciudad. El Langui tiene una particular forma de acercarse a chicas para evitar que lo vean y una vez ya es demasiado tarde las convierte en esclavos de su sangre (o cosas mucho peor). 
-
-Teme que le pueda pasar lo mismo a esa chica de lo que le pasó a ella y ahora quiere que alguien la convenza y la proteja hasta que el Langui se olvide de ella. 
-
-## El Abrazo de Rebecca
-
-El Abrazo de Rebecca fue un traumático evento para ella. [[Patricio 'El Langui'|Patricio]] se presentó como un hombre cualquiera de su entorno, un buen chico que se preocupaba pero la realidad fue otra distinta cuando pudo ver realmente su verdadera cara, ella se asustó, le rechazó y en un arrebato de furia, él le arrancó el pelo y la golpeó hasta matarla para finalmente abrazarla para esclavizarla en este mundo de por vida. 
