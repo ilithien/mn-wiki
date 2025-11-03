@@ -9,7 +9,7 @@ Teme que le pueda pasar lo mismo a esa chica de lo que le pasó a ella y ahora q
 ### El Abrazo de Rebecca
 El Abrazo de Rebecca fue un traumático evento para ella. [[Patricio 'El Langui'|Patricio]] se presentó como un hombre cualquiera de su entorno, un buen chico que se preocupaba pero la realidad fue otra distinta cuando pudo ver realmente su verdadera cara, ella se asustó, le rechazó y en un arrebato de furia, él le arrancó el pelo y la golpeó hasta matarla para finalmente abrazarla para esclavizarla en este mundo de por vida. 
 
-## Sangres débiles: Quino
+## Sangres débiles: Quino o en el campamento
 Dependiendo de a quién y como busquen a los sangres débiles podrían dar con el campamento o con el propio Quino que se encuentra en el Andromeda. 
 
 En cualquiera de los casos, éstos pedirían cierto pago a cambio de entregar dicha información a la Camarilla:

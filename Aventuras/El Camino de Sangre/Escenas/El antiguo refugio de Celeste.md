@@ -25,4 +25,4 @@ Desde aquí, podrían obtenerse dos piezas más de información: Ver a la Nosfer
 
 > Los vecinos y gente de la zona (vagabundos) podrían contar que se escuchó como un fuerte petardo y varios golpes seguidos. Muchos cuentan que podría parecer un asalto a alguna casa. Poco después se escuchó una ventana romperse y se pudieron ver unos tipos correr rápidamente y subirse en una furgoneta antes de marcharse con algo entre las manos. 
 
-
+Si vuelven a hablar con **[[Joan Enric Masip|Masip]]** éste les dirán que intenten hablar con [[Rebecca 'La Rebe' Godín|Rebecca]] salvo que tengan otras pista (podrían intentar buscar a los Sangres débiles para ver si alguien ha entregado ese explosivo). 

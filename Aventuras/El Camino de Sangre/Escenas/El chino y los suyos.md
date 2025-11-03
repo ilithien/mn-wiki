@@ -5,6 +5,16 @@ Son vástagos jóvenes intentando hacerse un hueco entre los Anarquistas y espec
 Han estado vigilando el refugio durante cerca de unas semanas y con la agitación en Arguelles y en el Dominio de los Tremere, sumado a la ausencia de la Primogénita y el momento de debilidad del clan han decidido asaltar su refugio en busca de algo útil con lo que poder ganarse un tanto. 
 
 Han encontrado una [[#La Reliquia|antigua reliquia]] que contiene una sangre que Celeste mantenía. 
+
+## La realidad
+La introducción anterior es lo que ellos realmente recordarán o bajo lo cual podrían actuar, sin embargo, no es del todo cierto. [[Manuel Cayo]] ha dominado al Caitiff eliminando esa reunión de su cabeza y poniendo algunas ideas que no son del todo ciertas. 
+
+Si la coterie interroga al Chino finalmente, notarán como duda con respecto a las razones por las cual él ha hecho eso. 
+
+**La directriz que se puso sobre la mente del Chino:** *Si alguien te pregunta porque asaltaste el refugio de Celeste, les dirás que fue para demostrar que los Anarquistas siguen fuertes en Madrid y para impresionar a [[Carlos Guerrero]]*. 
+
+Para descubrir que su mente ha sido alterada una tirada de **Inteligencia + Dominación (3)** o **Inteligencia + Perspicacia** **(5)**. Si no, parecerá que está diciendo cosas inconexas sin demasiado sentido. 
+
 # El chino
 Es un Caitiff llamado Ricardo Dominguez, conicido también como *Richi* o *el Chino*. 
 
