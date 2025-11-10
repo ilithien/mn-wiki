@@ -1,3 +1,11 @@
+# Sesión 10 | 05/10
+
+**Enrique** descubre a **Farid** justo después de terminar su Diablerie sobre el vástago Anarquista que encontró Fernando en el parque no muy lejos del [[Madbar Dakota]]. Éste llama a **Francisco** con el fin de intentar amortiguar la infracción de Farid ante las tradiciones vampíricas aunque **Enrique** le oculta la razón de diablerie a **Francisco**.
+
+**Fernando** sale huyendo del almacén de las Bodegas Cabrera dejando claro que alguien ha metido las narices en los asuntos de la Ventrue. Ahora, Elena, tiene al Inspector para sonsacarle la información sobre ese teléfono desde el cual le han llegado los mensajes. 
+
+**Minerva** comparte con Fernando lo encontrado en la caja de Hugo y descubren los detalles de las anotaciones sobre [[Acceso bloqueado - Catacumbas de Madrid]]
+
 # Sesión 9 | 29/10
 
 

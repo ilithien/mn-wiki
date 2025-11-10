@@ -13,7 +13,9 @@ Durante este paseo, Enrique descubrió que algunos vástagos habían sido atrapa
 - El Príncipe Eliécer le pide que la Primogénita Tremere podría saber como sacarle de ahí y que cualquiera de su propio clan podría ser parte de la guerra con Lucita y el Sabbat
 - [[Celeste]], por su lado, cree que su clan podría enseñarle el camino para hacerle volver ahora que sabe que este lugar existe.
 
-Enrique, tras despertar, contacta con el Sheriff para informarle de lo sucedido confiándo que es él el único agente neutral en todo esto. 
+Enrique, tras despertar, contacta con el Sheriff para informarle de lo sucedido confiándo que es él el único agente neutral en todo esto. De la misma forma, Enrique informa a [[Joan Enric Masip]]  de la situación de [[Celeste]] y que según ella traslada cree que su sangre es importante y la forma de obtenerla parece estar relacionada con el '[[pacto a tres]]'. 
+
+[[Joan Enric Masip]] por su cuenta no investigará mucho los primeros días meditando las opciones que tenía, preguntará al Senescal sobre ello pero éste no sabrá decirle. 
 
 [[Mapa de Escenas.canvas|Mapa de Escenas]]
 
@@ -28,7 +30,7 @@ Sin embargo, no eran ellos los únicos que estaban vigilando los pasos de los Tr
 
 [[Rebecca 'La Rebe' Godín|Rebeca]] les dará esa información a cambio de una [[#La petición de Rebeca|pequeña ayudita]]. La Nosferatu sabe que este joven Anarquista se mueve por ciertos ambientes situados en el sur de Madrid (Vallecas?) fuera del territorio de la Camarilla (concretamente territorio de Carlos Guerrero). Si la convencen de encargarse en otro momento, ella accederá confiando en la coterie. 
 
-Después de la charla con [[Rebecca 'La Rebe' Godín]] el [[Ahmed Abdel-Salam|Sheriff]] asaltará a la coterie preguntándoles que hacían esa noche en el Refugio de la Primogénita y acusándoles de asaltarlo. La coterie podría contar más o menos de la razón por la cual están ayudando al Tremere o podría ocultar información, es decisión suya. Si colaboran con él finalmente podrían llegar a la conclusión final y ganarse un amplio favor del Sheriff y si le ayudan a sustraer del refugio del Primogénito la sangre. 
+Después de la charla con [[Rebecca 'La Rebe' Godín]], la coterie debería poder saber quienes realmente han estado vigilando el refugio de Celeste después de varios días: un nuevo grupo de Anarquistas del grupo de [[Carlos Guerrero]]: el grupo del [[El chino y los suyos|chino]] el cual podría encontrado cerca del final de la noche en el [[Amnesia]].
 
 La coterie podría tomar por la fuerza, convencer al joven anarquista o utilizar medios más políticos de intercambio de favores, amenazas o lo que sea para negociar con la otra facción. 
 

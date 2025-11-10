@@ -1,4 +1,15 @@
 El local está enmascarado tras una especie de tienda de pipas y cachimbas. No tiene ventanas de ningún tipo, es una nave que tiene unos pasillos simples que, gracias a un juego de puertas y aislamiento, dan finalmente a una sala de fiesta. Es simple, hay una barra en una esquina, algunas mesas altas, unos grupos de sofas de polipiel negro al fondo junto a los baños y un pequeño stand para el DJ. No tiene apenas decoración, el suelo es de hormigón liso y no hay apenas luz.
 
-# Exteriores
-Si los personajes asaltan el Amnesia el chino y los suyos intentará sali
+No van a encontrar al [[Ricardo Navas 'El Chino'|Chino]] en el Amnesia salvo que lo llamen expresamente. Sin embargo, suele estar Iago Freire, el sangre débil que ayudó al [[Ricardo Navas 'El Chino'|Chino]] con los explosivos. 
+
+## El plan
+La información sobre el lugar la recibió el [[Ricardo Navas 'El Chino'|Chino]] realmente y ellos solo se sumaron a la oferta de dar un golpe por el bien del Movimiento. No saben de quien era realmente ni de que iba el asunto, simplemente tenían más o menos claro que encontrarían algún tipo de puerta oculta forjada que habría que reventar. 
+
+Esperaron que fuera una noche tranquila que no hubiera nadie y entraron en la casa. El [[Ricardo Navas 'El Chino'|Chino]] es quien realmente tiene la vasija. 
+
+* [[Iago Freire]] conoce parcialmente los planes pero sabe que el [[Ricardo Navas 'El Chino'|Chino]] no tiene planes de pasar por ahí esa noche salvo que realmente sea necesario. 
+* El [[Ricardo Navas 'El Chino'|Chino]] está custodiando la vasija durante las dos siguientes noches. Después de eso recibirá la llamada de [[Manuel Cayo]] quien le reclamará la sangre (pensando que podría ser la Sangre del Príncipe [[Eliécer de Polanco]])
+* [[Iago Freire]] podría desvelar, a la fuerza o mediante persuasión difícil, donde poder encontrar al Chino. Éste planea traicionar al tipo que le fió la información pensando que seguramente sería alguien de la Camarilla intentando utilizar a los Anarquistas para un golpe, sin embargo, piensa que podrá pasar de ellos y darles esquinazo una vez lo sepa [[Carlos Guerrero]]. 
+	* Si ha pasado varias noches desde el asalto a la casa entonces deberían buscar al Chino en territorio de [[Carlos Guerrero]], en Vallecas en un antro llamado '*El Pirata*'. 
+	* Si han conseguido llegar al final de la noche primera, lo cual sería extraño, entonces podrán buscar al [[Ricardo Navas 'El Chino'|Chino]] en unas naves no muy lejos del [[Amnesia]] en las que hay montado una especie de 'Club privado' llamado '*Las tres flechas*' (una barra, una especie de ring). La **sangre** estaría guardada en un arcón junto a víveres congelados de la cocina. 
+* El [[Ricardo Navas 'El Chino'|Chino]] sí sabía donde se metía y con quien: Sabía que si conseguía dar un importante golpe utilizando la información que le ha llegado podría quedar bien con [[Carlos Guerrero]]. Él si sabe el lugar donde se reunieron, un importante Hotel de cinco estrellas en el Dominio de los Banu Haqim, sin embargo no recordará con claridad con quien ha estado hablando ni quien le hizo llegar la información.

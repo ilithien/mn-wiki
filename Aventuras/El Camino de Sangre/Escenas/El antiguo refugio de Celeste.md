@@ -2,8 +2,7 @@ El lugar es una especie de casa unifamiliar de dos alturas situada en el sur de 
 
 [[Mauricio]], ghoul de Celeste, ha avisado a la Capilla de que alguien ha asaltado el refugio de su Dómitor: La Primogénita Celeste.
 
-Al llegar a la escena, suena un impacto de un vidrio terminar de romperse. La poca gente de las calles y casas de alrededor parece estar algo alertada, algunas personas caminan en vuestra dirección. 
-* La puerta de la entrada realmente no tiene la llave pasada y da la sensación que ha sido forzada la cerradura, la llave no acaba de girar y la puerta se abre.
+* La puerta de la entrada realmente no tiene la llave pasada y da la sensación que ha sido forzada la cerradura, la llave no acaba de girar y la puerta se abre. 
 * El Refugio secreto de [[Celeste]] se encuentra en el segundo piso, es una gran habitación con decoración clásica. En una de las paredes hay claramente lo que parece ser una puerta blindada robusta que ha sido destrozada por algún tipo de explosivo casero
 	* Una tirada de **Ciencia + Resolución** podría desvelar elementos utilizados en este explosivo
 		* Se ha utilizado alguna mezcla con lo que parece ser **Queroseno**

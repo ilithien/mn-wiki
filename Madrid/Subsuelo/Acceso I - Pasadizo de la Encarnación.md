@@ -8,7 +8,6 @@ Estos pasadizos parecen dirigir a distintos puntos de la ciudad:
 * Cripta subterránea del **Pasadizo de la Encarnación**. Al final de una pequeña subida de caracol este camino parece dar con realmente el acceso aquí parece ser una puerta robusta de acero y pesada revestida con lo que parece ser un marco de oro. 
 * Habitación secreta bajo **La Iglesia de San Nicolás de los Servitas**, concretamente en lo que parece algún tipo de Iglesia subterránea dedicada a un hombre **Ocultismo + Inteligencia** **(4)** parece un Culto a Caín y efectivamente es parte del área donde los Nodistas han utilizado para sus prácticas (ver más en [[#La Iglesia de Caín]])
 
-
 # La Iglesia de Caín
 
 El subterráneo de la [[Iglesia de San Nicolás de los Servitas]] es un lugar con columnas desgastadas de losa antigua. Se siente la humedad y un intenso olor variado aquí dentro. Es una mezcla entre humedad, polvo y sangre reseca. 
@@ -23,9 +22,3 @@ Justo en la zona del altar propia de una Iglesia de forma cruciforme hay un pede
 Junto a esta losa y al altar hay un pequeño legajo de papeles la mayoría manuscritos. Algunos de ellos parecen claramente antiguos en lo que parece ser latín o un lenguaje antiguo.
 
 **La existencia de este acceso no relaciona necesariamente nada al Culto de Shalim con la Iglesia más que por los accesos pasados utilizados por el [[Arzobispo Luis de Moncada]] para caminar por Madrid**
-
-# Los Restos de una masacre
-
-Con la llegada de Romi, ésta dejará un terrible mensaje en forma de masacre en una de las organizaciones del Culto que expondrá claramente lo sucedido en la noche siguiente. 
-
-El Sheriff, descubrirá esa información ahi parcialmente y decidirá 
