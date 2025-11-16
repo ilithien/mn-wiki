@@ -1,0 +1,1 @@
+Este lugar es el que Romi va a asaltar una vez llegue a Madrid. No tendrá más importancia en la historia más que ser una extensión del [[Culto de Shalim]] en lo que a sus métodos de captación de recipientes (ghouls y sangre) se refiere

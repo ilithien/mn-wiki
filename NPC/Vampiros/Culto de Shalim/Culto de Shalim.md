@@ -8,6 +8,7 @@ En Madrid, el Culto se Organiza de forma relativamente simple. Está conformado 
 * La [[Luz de San Nicolás]]
 * Organización [[La Mano Amiga]], liderada por el ghoul **Eva Martínez** como encargada de la logística de la comida y bebida que se cargan en los camiones. 
 * Hogar Social de [[Hogar de Lavapiés]]
+* [[Hogar Social de Chamberí]]
 
 Paralelamente, utilizan los poderes de [[Cinthia]] para 'mejorar' a aquellos guerreros que defienden el Culto. 
 
@@ -19,3 +20,10 @@ No están formados por más de unos pocos vástagos de forma directa que crean e
 * La Sombra de Shalim, [[Josep Rosselló]]
 * La Espada de Shalim, [[Cinthia]]
 
+# LA Ceremonia final
+
+El Culto está cerca de poder llevar a cabo su ritual, han perdido algunos importantes sacrificios de los Vástagos pero esperan encontrar algunos otros para poder traer a Shalim, según creen, en el cuerpo de Tharumagi y que finalmente el Abismo se lleve por delante a aquellos que ha estado intentando absorber. 
+
+Únicamente necesitan suficiente sangre para alimentar a [[Shalim]] y darle el poder para poseer un cuerpo suficientemente apto para no destruirlo al instante. 
+
+Están acumulando en antigua gran fuente una gran cantidad de sangre y vitae con el fin de que se convierta en la puerta del Abismo que una vez quedó abierta. 
