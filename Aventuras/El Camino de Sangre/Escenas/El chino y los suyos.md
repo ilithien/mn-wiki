@@ -33,4 +33,10 @@ El contenido de esta reliquia es realmente es la vitae otro vástago de la ciuda
 Mauricio podría reconocer esa vasija una vez la vea como tal y podría creer que ahí dentro podría haber la sangre de alguien importante que incluya a gente como el Príncipe [[Eliécer de Polanco]], [[Celeste]] o [[Manuel Cayo]], Primogénito de los [[Banu Haqim]]. 
 
 
+# Las tres flechas
 
+Es el refugio de [[Ricardo Navas 'El Chino']], en ella se encuentran bastantes mortales y ghouls que tiene influenciados. En general son hombres y mujeres del mundillo extremista izquierda y anarquistas a nivel mortal que sienten en el Chino alguien activista y reactivo ante injusticias sociales. Están fuertemente influenciados por sus ideales y por aquellos que intentarían imponerse en su propio territorio. 
+
+En caso de conflicto la idea sería que fuera algo creciente: El chino, tantos ghouls con potencia como jugadores y algunos puñados de mortales. 
+
+El Sheriff estaría informado de que la coterie ha recibido la información y seguramente esté cazando a los culpables. Bien porque necesiten ayuda o bien porque el Sheriff los tenga vigilados a partir de la siguiente noche (o tras lo sucedido en el Amnesia)

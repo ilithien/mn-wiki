@@ -1,3 +1,9 @@
+# Sesión 14 / 19/11
+
+El **Sheriff o Yassir** debería seguir la pista de Amara hasta dar con el entorno de Cinthia y de su plan de formación de varios ghouls con habilidades básicas: Potencia, Fuerza y Fortaleza.
+
+
+
 # Sesión 10 | 05/10
 
 **Enrique** descubre a **Farid** justo después de terminar su Diablerie sobre el vástago Anarquista que encontró Fernando en el parque no muy lejos del [[Madbar Dakota]]. Éste llama a **Francisco** con el fin de intentar amortiguar la infracción de Farid ante las tradiciones vampíricas aunque **Enrique** le oculta la razón de diablerie a **Francisco**.
