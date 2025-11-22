@@ -11,7 +11,6 @@ Tiresias utiliza su sangre y su influencia para permanecer despierto bajo Madrid
 	* Gran parte de la información se utiliza un cifrado un poco básico ahorrándose palabras, utilizando iniciales, etc. (**Inteligencia + Investigación (4)**) pero parece indicar que se reunían siempre en el *Andén I de Atocha* y desde ahí seguían una ruta marcada que está en los bocetos
 	* Hay información tomada de Bibliotecas que habrá de un antiguo pasadizo llamado el Pasadizo de la Encarnación pero parece algo antiguo que debería haber desaparecido según los datos oficiales. 
 
-
 # Hugo antes de morir
 [[Hugo Salazar]] antes de morir descubrió que en los túneles que conectaban el Monasterio de la Encarnación con el Palacio Real de Madrid había cierto desvío hacia las criptas de la catedral. 
 
@@ -38,7 +37,6 @@ A través de estos pasadizos se pueden avistar alarmas y detecciones utilizadas 
 Esta sección realmente no tiene nada de especial, son algunos túneles que desembocan en esta gran bóveda que tiene algunos libros en una pequeña habitación y no hay más que algunos bancos distribuidos de forma similar que en la Iglesia. Detrás de la zona litúrgica hay una puerta sellada con el [[Pozo de la Condenación]]. 
 
 ### Eventos
-
 * Al acceder al Monasterio de la Encarnación el Culto los detectará y atacará a los personajes no muy lejos de ahí o en algún punto donde se separen. Ghouls humanos ataviados con ropas oscuras que parecen trabajar en alguna de las organizaciones. Estos ghouls parecen haber estado modificados ligeramente con poderes de visicitud.
 * Al acceder visible a algunos de los Almacenes también podrían asaltar algunos de estos ghouls ligeramente modificados. A efectos prácticos se debe rolear como si tuvieran **Fortaleza (2) - Resta 2 a todo el daño recibido**.
 * En el [[Almacén de la Mano Amiga]] se pueden encontrar cuerpos desangrados a los que se le ha extraído sangre cortándoles las muñecas para exanguinarlos prácticamente por completo. 

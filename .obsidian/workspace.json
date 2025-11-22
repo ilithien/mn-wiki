@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aventuras/La Sombra de la Torre/Notas de sesión.md",
+                "file": "Aventuras/La Sombra de la Torre/Entradas/Hogar de Lavapiés.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas de sesión"
+              "title": "Hogar de Lavapiés"
             }
           }
         ]
@@ -184,34 +184,36 @@
   "active": "8083216f85d76007",
   "lastOpenFiles": [
     "Aventuras/La Sombra de la Torre/Entradas/La Mano Amiga.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
+    "Aventuras/La Sombra de la Torre/Entradas/Hogar Social de Chamberí.md",
+    "Aventuras/La Sombra de la Torre/Entradas/Hogar de Lavapiés.md",
     "Aventuras/La Sombra de la Torre/Subtramas/Los hijos del loco.md",
     "Aventuras/La Sombra de la Torre/Subtramas/Para Romi.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/Poniendo la semilla.md",
+    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
+    "Aventuras/La Sombra de la Torre/Boceto escenas - Caps.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
+    "NPC/Vampiros/Camarilla/Tremere/Amara.md",
+    "NPC/Vampiros/Camarilla/Tremere/Celeste.md",
+    "Amara.png",
+    "Untitled.base",
+    "NPC/Vampiros/Camarilla/Tremere/Tremere.md",
+    "Aventuras/La Sombra de la Torre/Entradas/Luz de San Nicolás.md",
+    "Aventuras/La Sombra de la Torre/Entradas/Letargo Avanzado.md",
+    "Aventuras/La Sombra de la Torre/Subtramas/La hija de Francisco.md",
     "Aventuras/La Sombra de la Torre/Subtramas/Jaque a la reina.md",
     "Aventuras/La Sombra de la Torre/Subtramas/Agitación en Argüelles.md",
-    "Aventuras/La Sombra de la Torre/Subtramas/El Dragón de dos cabezas.md",
     "Aventuras/El Camino de Sangre/Escenas/Hotel Avenida América.md",
     "Aventuras/El Camino de Sangre/Escenas/El chino y los suyos.md",
     "Aventuras/El Camino de Sangre/Escenas/Amnesia.md",
-    "Aventuras/La Sombra de la Torre/Entradas/Hogar Social de Chamberí.md",
     "Untitled.canvas",
     "Untitled.md",
     "Untitled 1.canvas",
     "Aventuras/El Camino de Sangre/Cainitas/Iago Freire.md",
     "Aventuras/El Camino de Sangre/Cainitas/Ricardo Navas 'El Chino'.md",
     "2025-11-17.md",
-    "Aventuras/La Sombra de la Torre/Entradas/Luz de San Nicolás.md",
     "NPC/Vampiros/Culto de Shalim/Culto de Shalim.md",
     "Madrid/Subsuelo/Acceso I - Pasadizo de la Encarnación.md",
-    "Aventuras/La Sombra de la Torre/Notas de sesión.md",
-    "Aventuras/La Sombra de la Torre/Boceto escenas - Caps.md",
-    "Aventuras/El Camino de Sangre/Escenas/Pagando por la información.md",
-    "Aventuras/El Camino de Sangre/Escenas/El antiguo refugio de Celeste.md",
     "Aventuras/El Camino de Sangre/Cainitas",
-    "NPC/Vampiros/Camarilla/Lasombra/Padre Abel García.md",
-    "Madrid/Subsuelo/Acceso bloqueado - Catacumbas de Madrid.md",
-    "Aventuras/La Sangre de San Pantaleón/Idea de partida.md",
     "Aventuras/El Camino de Sangre/Mapa de Escenas.canvas",
     "Aventuras/El Camino de Sangre/Escenas",
     "Aventuras/El Camino de Sangre/Personajes",
@@ -225,13 +227,11 @@
     "Recursos/Imágenes/Personajes/Principe Eliecer en el Abismo.png",
     "Madrid/Transporte",
     "NPC/Vampiros/Culto de Shalim/Culto de Shalim.base",
-    "Untitled.base",
     "Untitled",
     "Recursos/Imágenes/Personajes/Dr. Jerónimo Casas.png",
     "Recursos/Imágenes/Personajes/Arturo Santa Cruz.png",
     "NPC/Vampiros",
     "Recursos/Imágenes/Lugares/View - Torre de Madrid.png",
-    "Recursos/Imágenes/Lugares/Parroquia de San Ginés - Interior.png",
     "Sin título.canvas"
   ]
 }

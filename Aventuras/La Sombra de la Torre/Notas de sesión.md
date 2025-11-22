@@ -1,8 +1,6 @@
 # Sesión 14 / 19/11
 
-El **Sheriff o Yassir** debería seguir la pista de Amara hasta dar con el entorno de Cinthia y de su plan de formación de varios ghouls con habilidades básicas: Potencia, Fuerza y Fortaleza.
-
-
+El **Sheriff o Yassir** debería seguir la pista de Amara hasta dar con el entorno de Cinthia y de su plan de formación de varios ghouls con habilidades básicas: Potencia, Fuerza y Fortaleza. 
 
 # Sesión 10 | 05/10
 

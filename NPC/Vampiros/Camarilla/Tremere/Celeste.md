@@ -4,6 +4,8 @@
 **Posición**: Regente de la Capilla y Primogénita Tremere
 **Abrazo:** 1810
 **Nacido**: 1770
+**Generación**: 9ª
+
 ## Trasfondo
 El pasado de Celeste es un misterio para cualquier vástago de Madrid, incluido su propio clan. Se estima que Celeste podría ser uno de los vampiros más antiguos entre el consejo de [[Primogénitos]] y de aquellos que hay en la ciudad. 
 

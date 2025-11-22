@@ -8,6 +8,15 @@ Después del sacrificio de Silvia y de la ejecución de Marius la línea de inve
 
 La joven Tzimisce está utilizando a su ghoul, [[Marina Bonilla|Marina]] para vender información dentro de los [[Bajos de Argüelles]] para los Anarquistas gracias a su infiltración en el **Red Moon** bajo la promesa de que [[Marina Bonilla|Marina]] podrá cobrarse la venganza tras la muerte de su hermana. 
 
+# Amara
+La relación con la [[Amara|Tremere]] no es otra que una compra de varios poderes de Hechicería de Sangre: 
+* La pintura de los cuadros con el ritual de **Sangre sobre Lienzo**
+* Círculos de protección para proteger algunos puntos como refugios o lugares sellados.
+
+No sólo los Tzimice han utilizado sus poderes, si no también múltiples vástagos alejados de los poderes de la *Hechicería de Sangre* han hecho tratos con [[Amara]]. Ésta no sabe demasiado sobre los asuntos de los Tzimisce ni del Sabbat, en particular, quien lo compró realmente ha sido [[Giselda Román]] quien realmente ahora está más bien afiliada con los Anarquistas de Vallecas. 
+
+El trato con Marius fue simple, sellar la entrada a su refugio para él (aunque ella le engañó y dejó la posibilidad de abrirlo por si fuera necesario) con el fin de poder resguardarse de la Caza de Sangre. 
+
 # Ghouls vitaminados
 
 El Culto está reclutando gran cantidad de ghouls para defender a sus organizaciones pantalla para reclutar recipientes y nuevos miembros afines a las ideas del culto: gente perdida sin esperanza y ganas de venganza. 
