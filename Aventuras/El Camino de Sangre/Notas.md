@@ -31,3 +31,7 @@ Los mensajes y directrices les indicarán que deben dirigirse a la Real Bibliote
 	* Sin embargo, el Sheriff se enterará de lo sucedido por los contactos de la zona que tiene puestos sobre varias personas importantes y seguirá los pasos que vaya dejando la coterie pensando que podrían ser ellos quienes realmente andan detrás de esto o que alguien ha aprovechado lo sucedido para perseguirlo.
 	* La clave del Sheriff es que él si sabe del [[pacto a tres]] y poco después de que se entere que alguien ha asaltado el refugio de la Primogénita podría creer que alguien quiere hacerse con algo que pudiera tener ella misma. 
 
+
+# Sesion 4 / 24/11/2025
+
+* **Edea Crane** recibe varias llamadas de *Martina Tous*, su manager sobre lo sucedido la noche anterior en la avenida del polígono de vallecas. 
